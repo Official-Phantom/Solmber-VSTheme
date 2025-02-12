@@ -1,0 +1,58 @@
+{
+  "name": "somber",
+  "displayName": "Somber",
+  "description": "A minimalistic theme for VS Code, featuring bold red accents.",
+  "version": "0.0.1",
+  "publisher": "JaydenDancer",
+  "icon": "images/logo.png",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "author": {
+    "name": "Jayden Dancer",
+    "email": "Jaydencadedancer@proton.me"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Somber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Somber-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Official-Phantom/Somber-VSTheme"
+  },
+  "bugs": {
+    "url": "https://github.com/Official-Phantom/Somber-VSTheme/issues",
+    "email": "jaydencadedancer@proton.me"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Themes",
+    "Red Theme",
+    "color-theme",
+    "Somber"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Somber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Somber-color-theme.json"
+      }
+    ]
+  },
+  "homepage": "https://github.com/Official-Phantom/Somber-VSTheme/blob/main/README.md",
+  "galleryBanner": {
+    "color": "#79111c",
+    "theme": "dark"
+  }
+}
